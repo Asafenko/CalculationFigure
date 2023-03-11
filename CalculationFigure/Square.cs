@@ -15,6 +15,7 @@ public class Square : IFigure
 
     public double GetArea()
     {
-        throw new NotImplementedException();
+        return Side * Side;
     }
+    
 }
