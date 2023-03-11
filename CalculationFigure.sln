@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationFigure", "CalculationFigure\CalculationFigure.csproj", "{43C6D1E7-3C5A-454B-AE5B-C577FB01BCCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figure.Tests", "Figure.Tests\Figure.Tests.csproj", "{F3CF7438-4AA3-46E0-8887-C332C4455DA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C6D1E7-3C5A-454B-AE5B-C577FB01BCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C6D1E7-3C5A-454B-AE5B-C577FB01BCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C6D1E7-3C5A-454B-AE5B-C577FB01BCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C6D1E7-3C5A-454B-AE5B-C577FB01BCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3CF7438-4AA3-46E0-8887-C332C4455DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CF7438-4AA3-46E0-8887-C332C4455DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CF7438-4AA3-46E0-8887-C332C4455DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CF7438-4AA3-46E0-8887-C332C4455DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
